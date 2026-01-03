@@ -52,3 +52,20 @@ Notes:
 - Accounts table was derived by deduplicating account_id values in cleaned transactions.
 - Interest rate and credit limit fields are intentionally left null for future extension.
 - Output artifact: data/cleaned/accounts_clean.csv
+
+------------------------------------------------------------------------------------
+## Debts Table (Subtask B)
+
+| Field | Type | Description |
+|------|------|------------|
+| debt_id | string | Unique debt identifier |
+| account_id | string | Linked account identifier (foreign key to accounts.account_id) |
+| current_balance | float | Outstanding balance |
+| interest_rate | float | APR percentage |
+| minimum_payment | float | Monthly minimum payment |
+
+Notes:
+- Debt dataset is synthetic and created for educational analytics purposes.
+- Debt rows are linked to existing account_id values from accounts_clean.csv.
+- Values represent realistic ranges for common consumer debt products.
+- Output artifact: data/cleaned/debts_clean.csv

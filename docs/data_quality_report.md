@@ -62,3 +62,15 @@ The dataset was standardized to the following fields:
 Output artifact:
 - data/cleaned/accounts_clean.csv
 
+------------------------------------------------------------------------------------
+
+## Debts Data Quality Summary (Subtask B)
+
+- Debt table created as a small synthetic dataset for educational modeling
+- Total debt records: 5
+- Missing values: 0 across all fields
+- Linked to existing account_id values from accounts_clean.csv
+- interest_rate stored as APR percentage
+
+Output artifact:
+- data/cleaned/debts_clean.csv
