@@ -1,0 +1,4 @@
+scenario,monthly_income,monthly_expenses,monthly_savings,savings_rate_percent,wellness_score
+baseline,539902.1816,539902.1816,0.0,0.0,42.38
+income_drop_20pct,431921.74528000003,539902.1816,-107980.43631999998,-25.0,42.38
+expense_spike_30pct,539902.1816,701872.83608,-161970.65448000003,-30.0,42.38

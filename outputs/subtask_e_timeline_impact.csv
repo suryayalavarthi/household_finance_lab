@@ -1,0 +1,4 @@
+scenario,monthly_budget,months_to_payoff,total_interest_paid
+baseline,800.0,82,17996.47
+income_drop_20pct,600.0,143,37868.9
+expense_spike_30pct,560.0,179,52332.46
