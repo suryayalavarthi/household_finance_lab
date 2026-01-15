@@ -89,7 +89,7 @@ These demonstrate how stress scenarios impact savings and debt payoff outcomes.
 
 ## 🌐 Live Dashboard
 
-👉 [View the live Streamlit dashboard](https://<your-app-url>.streamlit.app)
+👉 [View the live Streamlit dashboard](https://household-finance-lab.streamlit.app)
 
 
 ---
