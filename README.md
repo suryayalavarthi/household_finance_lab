@@ -77,12 +77,20 @@ Each scenario shows:
 
 ## 🖥️ Dashboard Preview
 
-Sample dashboard views are included as PDFs:
-- `baseline.pdf`
-- `incomedrop.pdf`
-- `expense_spike.pdf`
+The following PDFs demonstrate the Streamlit dashboard under different scenarios:
+
+- [Baseline Scenario](assets/dashboard_pdfs/baseline.pdf)
+- [Income Drop Scenario (-20%)](assets/dashboard_pdfs/incomedrop.pdf)
+- [Expense Spike Scenario (+30%)](assets/dashboard_pdfs/expense_spike.pdf)
 
 These demonstrate how stress scenarios impact savings and debt payoff outcomes.
+
+--- 
+
+## 🌐 Live Dashboard
+
+👉 [View the live Streamlit dashboard](https://<your-app-url>.streamlit.app)
+
 
 ---
 
